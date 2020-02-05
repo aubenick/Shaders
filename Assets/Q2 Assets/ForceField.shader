@@ -53,7 +53,7 @@
             o.Alpha = 1-(dotValue/1.5);
             
             //Give effect based on time
-            o.Alpha -= (1+sin(_Time.a*1.5))/3;
+            o.Alpha -= (1+sin(_Time.a))/8;
             o.Alpha = clamp(o.Alpha, 0.0f, 1.0f);
         }
         ENDCG
