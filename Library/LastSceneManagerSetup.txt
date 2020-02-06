@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/4. ToonShading.unity
+- path: Assets/Scenes/3. BumpedSurface.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
